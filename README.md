@@ -12,7 +12,7 @@ Through exploratory analysis of Olist’s 2017-2018 datasets, I identified a cri
 * **Analytical Focus:** I developed a **Dual-Axis Dashboard** to confirm whether the logistics infrastructure remained resilient during peak periods.
 
 ## 📊 Key Visualization: Operational Health Dashboard
-![Operational Dashboard](./dashboard_20260519.png)
+![Operational Dashboard](dashboard_20260519.png)
 *This chart correlates monthly order volume (stacked bars) with the cancellation rate (line with markers) to monitor scalability.*
 
 ## 2. Key Insights
@@ -22,7 +22,7 @@ Through exploratory analysis of Olist’s 2017-2018 datasets, I identified a cri
 
 ## 3. Next Steps (Root Cause Analysis)
 To further optimize customer experience, I will perform:
-* **Category Attribution:** Identify if high cancellation rates are concentrated in specific categories (e.g., heavy furniture).
+* **Category Attribution:** Identify if high cancellation rates are concentrated in specific categories.
 * **Logistics Correlation:** Verify if "Estimated Delivery Time" delays drive "Customer Regret."
 * **Geographic Analysis:** Identify underperforming regional logistics partners by state.
 
