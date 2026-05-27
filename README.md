@@ -1,7 +1,7 @@
 # Olist E-Commerce Operational Performance Analysis
 
 ## Project Overview & Core Philosophy
-This repository serves as an evolving, end-to-end data analytics project dedicated to exploring and uncovering operational insights within the Olist e-commerce ecosystem. Rather than delivering a static report, my approach is iterative—continually digging deeper into the dataset to turn data anomalies into actionable business intelligence. I will be continuously updating this repository with new investigative phases as further analysis unfolds.
+This repository serves as an evolving, end-to-end analytics project driven by Iterative Exploratory Data Analysis (EDA) within the Olist e-commerce ecosystem. Rather than delivering a static report, my approach centers on deep-dive data exploration—continually surface-mining the dataset to transform subtle anomalies into actionable business intelligence. I will be consistently expanding this repository with new investigative phases as further root-cause attribution unfolds.
 
 ---
 
