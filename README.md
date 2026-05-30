@@ -28,10 +28,11 @@ In this second phase, **[02_category_cancellation_attribution.ipynb](./02_catego
 ### Heatmap Matrix Interpretation & Key Takeaways
 Each cell in this matrix displays the monthly cancellation rate for the respective category, calculated as the count of canceled and unavailable orders over total order volume. 
 
-The dual-color encoding allows an analyst to instantly spot high-percentage anomalies via color density, while the overlaid volume metrics provide immediate context to determine if a spike is statistically significant or driven by low-volume noise. Through this cross-examination, I isolated the three primary targets introduced at the beginning of this report:
+The dual-color encoding allows an analyst to instantly spot high-percentage anomalies via color density, while the overlaid volume metrics provide immediate context to determine if a spike is statistically significant or driven by low-volume noise. Through this cross-examination, I isolated the four primary targets introduced at the beginning of this report:
 
 * **Construction Tools & Garden** (April 2018)
 * **Telephony** (July 2018)
+* **Musical Instruments** (May 2018)
 * **Fashion & Male Clothing** (August 2017)
 
 ---
