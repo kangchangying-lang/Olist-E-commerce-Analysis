@@ -42,7 +42,7 @@ The dual-color encoding allows an analyst to instantly spot high-percentage anom
 
 By concluding Phase 2, I have successfully mapped exactly *where* and *when* these critical fulfillment failures occurred. However, aggregate percentages alone cannot explain the true underlying operational friction. 
 
-To uncover the precise root causes behind the three isolated targets above, this repository will soon expand into **Phase 3**, transitioning from matrix processing into micro-level user and text analysis:
+To uncover the precise root causes behind the four isolated targets above, this repository will soon expand into **Phase 3**, transitioning from matrix processing into micro-level user and text analysis:
 
 * **User Behavioral Analysis:** Profile buyer segments to detect potential cluster cancellations, payment gateway friction, or localized logistics bottlenecks during those specific high-risk months.
 * **Review Sentiment Mining:** Extract and analyze customer feedback within `review_comment_message` to isolate high-frequency complaints regarding supplier stockouts, description mismatches, or unexpected delivery delays.
